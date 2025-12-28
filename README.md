@@ -26,7 +26,7 @@ Blog应用程序设计
 1.  **克隆项目**
     ```bash
     git clone https://github.com/chimamei/4.git
-    cd  4
+    cd 4
     安装依赖
     pip install django
     # 生成迁移文件（若未上传迁移文件时执行）
